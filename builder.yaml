@@ -1,0 +1,7 @@
+components:
+- name: app
+  role: web
+  platform: nodejs
+  run:
+    port: 8080
+  path: /
